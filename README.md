@@ -2,7 +2,7 @@
 
 A complete full-stack web application for managing employee records, built with React, Tailwind CSS for the frontend, and a powerful Spring Boot REST API with a PostgreSQL database on the backend.
 
-![Employee Manager Screenshot](https://i.imgur.com/vHq464z.png)
+![Employee Manager Screenshot](https://drive.google.com/drive/home)
 
 ## ✨ Live Demo
 
