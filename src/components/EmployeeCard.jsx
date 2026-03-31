@@ -17,7 +17,7 @@ function EmployeeCard({ employee, onDelete }) {
           onClick={() => navigate(`/update/${employee.id}`)}
           className="bg-green-700 hover:bg-green-900 text-white px-4 py-1 rounded-xl text-sm"
         >
-          UPDATE
+          UPDATE yo
         </button>
         <button
           onClick={() => onDelete(employee.id)}
